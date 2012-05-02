@@ -9,3 +9,6 @@ Vundle users can include it by adding
 
     Bundle "Stubbs/snippets-phpunit-snippets"
 
+to your .vimrc
+
+Please feel free to add your own snippets & send me a pull request.
